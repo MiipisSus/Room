@@ -1,5 +1,7 @@
 # Room
 
+>**檔案僅包含腳本**
+
 這是一個小型密室解謎遊戲。
 
 [遊戲展示](https://649c4d310f46881eb4af1997--lovely-sable-2b9a16.netlify.app/)
